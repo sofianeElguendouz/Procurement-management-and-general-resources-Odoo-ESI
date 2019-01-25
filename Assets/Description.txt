@@ -1,0 +1,1 @@
+Ce dossier contient un code source d'un module ERP Odoo 10.0 pour la gestion des immobilisations
